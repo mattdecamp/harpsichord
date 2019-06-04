@@ -2,8 +2,6 @@
 
 All notable changes to the "harpsichord" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [Released]
 
-## [Unreleased]
-
-- Initial release
+- Initial release June 3, 2019
