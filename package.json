@@ -1,0 +1,21 @@
+{
+    "name": "harpsichord",
+    "displayName": "harpsichord",
+    "description": "A Dark Theme for VS Code by Matt DeCamp",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.34.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Harpsichord",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Harpsichord-color-theme.json"
+            }
+        ]
+    }
+}
