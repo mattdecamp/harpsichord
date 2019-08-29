@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT) 
 
-An colorful yet understated dark theme for VS Code.
+A colorful yet understated dark theme for VS Code.
 
 Harpsichord is a dark theme for web development currently available online for Visual Studio Code application. Smart, simple and easy on eyes Harpsichord is perfect for extended coding sessions and suited especially well for CSS, HTML and JS.
 
